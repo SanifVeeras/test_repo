@@ -1,0 +1,9 @@
+
+-- Initialize Git repo
+git init
+
+-- Link the local repo to the GitHub
+git remote add origin https://github.com/SanifVeeras/test_repo.git
+
+-- Create a new branch
+git checkout -b 'branch_name'
